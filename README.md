@@ -47,6 +47,8 @@ pip install -r requirements.txt
 **결과**  
 - 7월부터 3개월 간의 예측 결과 MAE(Mean Absolute Error, 평균 절대 오차) 약 797원 달성
 
+<br>
+
 ### 🌾 작물 선택
 **개요**  
 - 온습도, 토양 영양 정보 등을 기반으로 재배하기 적절한 작물을 선택하는 모델
@@ -59,6 +61,8 @@ pip install -r requirements.txt
 
 **결과**  
 - test dataset에 대해 Accuracy 0.9545 달성
+
+<br>
 
 ### 💉 작물 질병 진단
 **개요**  
