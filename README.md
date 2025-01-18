@@ -45,7 +45,7 @@ pip install -r requirements.txt
 |데이터|[한국농수산식품유통공사 KAMIS](https://www.kamis.or.kr/customer/price/wholesale/period.do)의 월별 쌀 중도매인 판매 가격 데이터 <br> [기상청](https://data.kma.go.kr/stcs/grnd/grndRnList.do)의 월별 기온, 강수량, 기압, 습도, 풍속, 일사/일조량 데이터|
 
 **결과**  
-- 7월부터 3개월 간의 예측 결과 MAE(Mean Absolute Error, 평균 절대 오차) 약 797원 달성
+- 7월부터 3개월 간의 예측 결과 MAE(Mean Absolute Error, 평균 절대 오차) 약 500원 달성
 
 <br>
 
